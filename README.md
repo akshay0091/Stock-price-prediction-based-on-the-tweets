@@ -1,1 +1,2 @@
 # Stock-price-prediction-based-on-the-tweets
+Employing advanced sentiment analysis techniques and machine learning algorithms, I led a project focused on predicting stock prices based on Twitter data. Leveraging Afinn, NLTK, and LSTM models, we extracted sentiment from tweets and trained models to forecast stock movements. The project showcased a fusion of natural language processing and financial analysis, offering insights into the interplay between social media sentiment and market dynamics.
